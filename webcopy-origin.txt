@@ -1,0 +1,32 @@
+Uri: https://hackertyper.net/
+File Name: C:\Downloaded Web Sites\hackertyper.net\index.htm
+Content Type: text/html
+
+Uri: https://hackertyper.net/img/favicon.ico
+File Name: C:\Downloaded Web Sites\hackertyper.net\img\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://hackertyper.net/img/logo192.png
+File Name: C:\Downloaded Web Sites\hackertyper.net\img\logo192.png
+Content Type: image/png
+
+Uri: https://hackertyper.net/main.css?v=1.22
+File Name: C:\Downloaded Web Sites\hackertyper.net\main.css
+Content Type: text/css
+
+Uri: https://hackertyper.net/main.js?v=1.84
+File Name: C:\Downloaded Web Sites\hackertyper.net\main.js
+Content Type: application/javascript
+
+Uri: https://hackertyper.net/manifest.json
+File Name: C:\Downloaded Web Sites\hackertyper.net\manifest.json
+Content Type: application/json
+
+Uri: https://link.duiker101.net/static/link.js
+File Name: C:\Downloaded Web Sites\hackertyper.net\static\link.js
+Content Type: text/javascript
+
+Uri: https://sum.duiker101.net/agr.js
+File Name: C:\Downloaded Web Sites\hackertyper.net\agr.js
+Content Type: text/javascript
+
